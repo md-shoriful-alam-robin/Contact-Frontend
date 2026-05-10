@@ -82,7 +82,8 @@ frontend/
 └── .env.production
 ```
 
-## ![Home Page](./screenshots/home.png)
+## <img width="498" height="498" alt="WallpaperEngineSettingsIconGIF" src="https://github.com/user-attachments/assets/17c45c7d-9ff0-4733-b014-384da9ffea70" />
+
  Getting Started
 
 ### Prerequisites
