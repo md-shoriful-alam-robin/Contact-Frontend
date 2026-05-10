@@ -38,7 +38,8 @@ A modern, full-featured contact management application built with **React**, **V
 - RESTful API calls to json-server backend
 - Real-time data synchronization
 
-## 🛠️ Tech Stack
+##  <img width="498" height="413" alt="DeveloperGIF" src="https://github.com/user-attachments/assets/67c621f1-912d-4324-8195-d4eb5180052b" />
+Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -81,7 +82,8 @@ frontend/
 └── .env.production
 ```
 
-## 🚀 Getting Started
+## <img width="498" height="278" alt="StandingOvationGIF" src="https://github.com/user-attachments/assets/8f1f537c-56ad-4936-942c-a3b03c533853" />
+ Getting Started
 
 ### Prerequisites
 - Node.js (v16+)
