@@ -82,7 +82,7 @@ frontend/
 └── .env.production
 ```
 
-## <img width="498" height="278" alt="StandingOvationGIF" src="https://github.com/user-attachments/assets/8f1f537c-56ad-4936-942c-a3b03c533853" />
+## ![Home Page](./screenshots/home.png)
  Getting Started
 
 ### Prerequisites
